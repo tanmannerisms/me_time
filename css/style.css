@@ -2,3 +2,7 @@ body {
 	background: black;
 	color: white;
 }
+
+#todo-wrapper {
+	text-align: center;
+}
